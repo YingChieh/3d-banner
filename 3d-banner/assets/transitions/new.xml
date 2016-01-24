@@ -1,0 +1,99 @@
+<transitions>
+
+	<transition3D name = 'linesV' > 
+		<general facesX='12' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='1.7' motion='Cubic' ease='easeInOut' proximity='15' rotationType='normalX' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'linesVInv' > 
+		<general facesX='12' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='1.7' motion='Cubic' ease='easeInOut' proximity='15' rotationType='inverseX' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'bounceStripes' > 
+		<general facesX='4' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='1.7' motion='Bounce' ease='easeIn' proximity='12' rotationType='normalY' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'prismSuddenAlt' > 
+		<general facesX='3' facesY='3' firstOnTop='true'/>
+		<overallAnimation time='1.7' motion='Linear' ease='easeIn' proximity='14' rotationType='alternativeXY2' startPoint='BC' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='10' moveDirection='BR' xDistance='10' yDistance='10' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'prismSudden' > 
+		<general facesX='3' facesY='3' firstOnTop='true'/>
+		<overallAnimation time='1.7' motion='Linear' ease='easeOut' proximity='14' rotationType='alternativeXY2' startPoint='BC' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='10' moveDirection='BR' xDistance='10' yDistance='10' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'stripesH' > 
+		<general facesX='4' facesY='4' firstOnTop='true'/>
+		<overallAnimation time='1.5' motion='Sine' ease='easeOut' proximity='5' rotationType='alternativeY' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'bounceAlt' > 
+		<general facesX='3' facesY='3' firstOnTop='true'/>
+		<overallAnimation time='2.2' motion='Bounce' ease='easeIn' proximity='21' rotationType='alternativeXY2' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'prismV' > 
+		<general facesX='3' facesY='3' firstOnTop='true'/>
+		<overallAnimation time='1.8' motion='Quintic' ease='easeInOut' proximity='12' rotationType='inverseHalfX' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'linesVInv' > 
+		<general facesX='7' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='1.5' motion='Linear' ease='easeIn' proximity='8' rotationType='normalX' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'linesV' > 
+		<general facesX='7' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='1.5' motion='Cubic' ease='easeInOut' proximity='8' rotationType='inverseX' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'prismAlt' > 
+		<general facesX='3' facesY='3' firstOnTop='true'/>
+		<overallAnimation time='1.6' motion='Cubic' ease='easeInOut' proximity='15' rotationType='alternativeXY2' startPoint='CC' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='15' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'bounceH' > 
+		<general facesX='3' facesY='3' firstOnTop='true'/>
+		<overallAnimation time='2.2' motion='Bounce' ease='easeIn' proximity='20' rotationType='alternativeY' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+	
+	<transition3D name = 'rectangleAlt' > 
+		<general facesX='3' facesY='3' firstOnTop='true'/>
+		<overallAnimation time='1.7' motion='Linear' ease='easeInOut' proximity='12' rotationType='alternativeXY2' startPoint='BC' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1.2' cubeDepth='10' moveDirection='BR' xDistance='10' yDistance='10' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'cubesAlt' > 
+		<general facesX='6' facesY='3' firstOnTop='true'/>
+		<overallAnimation time='1.7' motion='Linear' ease='easeInOut' proximity='4' rotationType='alternativeXY2' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='2' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'cubesV' > 
+		<general facesX='8' facesY='4' firstOnTop='true'/>
+		<overallAnimation time='1.9' motion='Linear' ease='easeInOut' proximity='10' rotationType='normalX' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = 'cubesH' > 
+		<general facesX='8' facesY='4' firstOnTop='true'/>
+		<overallAnimation time='1.9' motion='Linear' ease='easeIn' proximity='10' rotationType='normalY' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+</transitions>

@@ -1,0 +1,33 @@
+head {
+font-family:Myriad Pro Cond;
+font-weight:bold;
+font-size:30px;
+color:#ffffff;
+}
+
+headBack {
+font-family:Myriad Pro Cond;
+font-weight:bold;
+font-size:30px;
+color:#5b0d10;
+}
+
+body {
+font-family:Calibri;	
+font-size:18px;
+color:#ffffff; 
+}
+
+bodyBack {
+font-family:Calibri;
+font-size:18px;
+color:#5b0d10; 
+}
+
+a {
+color:#aaaaaa;
+font-family:Verdana; 
+font-size:14px;
+font-weight:bold;
+text-decoration:underline;
+}

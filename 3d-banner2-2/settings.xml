@@ -1,0 +1,111 @@
+<settings>
+  <General_Properties>
+    <componentWidth value="600"/>
+    <componentHeight value="350"/>
+    <assets value="images.xml"/>
+    <preloader value="assets/preloaders/redsquares.swf"/>
+    <slideShow value="true"/>
+    <stopOnRollOver value="false"/>
+    <delay value="2"/>
+    <imageFitting value="boxfit"/>
+    <useCustomColor value="false"/>
+    <customColor value=""/>
+    <showAbout value="true"/>
+    <noInitialAnimation value="false"/>
+  </General_Properties>
+  <Loading_Transitions>
+    <loadingTrans value="assets/transitions/3D.xml"/>
+    <randomTrans value="false"/>
+  </Loading_Transitions>
+  <Text_Effects>
+    <textEff value="assets/transitions/text.xml"/>
+    <randomTextEff value="true"/>
+  </Text_Effects>
+  <Image_Effects>
+    <imageEff value="assets/transitions/zoomOut.xml?uid=1388381115017"/>
+    <randomImageEff value="false"/>
+  </Image_Effects>
+  <Playlist_Properties>
+    <position value="BC"/>
+    <orientation value="horizontal"/>
+    <spacing value="0"/>
+    <paddingV value="0"/>
+    <paddingH value="0"/>
+    <skin value="assets/skins/skin5.xml"/>
+  </Playlist_Properties>
+  <PlaylistBtn_Properties>
+    <textVisible value="false"/>
+    <textOutColor value="0xcecece"/>
+    <textOverColor value="0x1ebadb"/>
+    <textDownColor value="0x6f6f6f"/>
+    <textActiveColor value="0x6f6f6f"/>
+    <loaderActive value="false"/>
+    <loaderColor value="0x0"/>
+    <textEmbedFonts value="false"/>
+    <textFontFamily value="Verdana"/>
+    <textSize value="43"/>
+  </PlaylistBtn_Properties>
+  <Text_Properties>
+    <textEffectDelay value="0"/>
+    <bodyTextDelay value="0.71"/>
+    <styleSheet value="assets/css/style.css"/>
+    <hPos value="left"/>
+    <vPos value="top"/>
+    <bodyDistance value="14"/>
+    <offset value="0"/>
+    <width value="300"/>
+    <headBgColor value="0xffff99"/>
+    <bodyBgColor value="0x000000"/>
+    <bgAlpha value="0.53"/>
+    <borderColor value="0xffffff"/>
+    <borderAlpha value="0.12"/>
+    <borderWidth value="0.3"/>
+    <cornerRadius value="0"/>
+    <paddingLeft value="7"/>
+    <paddingRight value="7"/>
+    <paddingTop value="7"/>
+    <paddingBottom value="7"/>
+    <embedFonts value="true"/>
+    <headUseDouble value="false"/>
+    <headOffsetDirection value=""/>
+    <bodyUseDouble value="false"/>
+    <bodyOffsetDirection value=""/>
+  </Text_Properties>
+  <Shadow_Properties>
+    <image value=""/>
+    <height value="25"/>
+    <width value="500"/>
+    <alpha value="0"/>
+    <color value="0x444444"/>
+    <angle value="74"/>
+    <blur value="0"/>
+    <offset value="0"/>
+  </Shadow_Properties>
+  <Background_Properties>
+    <fillType value="solid"/>
+    <backgroundImage value=""/>
+    <backgroundFitting value=""/>
+    <backgroundColor1 value="0x000000"/>
+    <backgroundColor2 value="0xff0000"/>
+    <backgroundAlpha value="0"/>
+    <bgCornerRadius value="5"/>
+    <gradientRotation value="30"/>
+    <gradientRatio value="40"/>
+    <gradientPosX value="0"/>
+    <gradientPosY value="0"/>
+    <useShade value="false"/>
+    <shadeColor value=""/>
+    <shadeAlpha value="0"/>
+    <shadeRatio value="0"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+  </Background_Properties>
+  <Shade_Properties>
+    <useShade value="false"/>
+    <shadeColor value="0x000000"/>
+    <shadeAlpha value="0.3"/>
+    <shadeRatio value="40"/>
+    <shadeWidth value="0"/>
+    <shadeHeight value="0"/>
+  </Shade_Properties>
+</settings>

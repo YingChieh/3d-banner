@@ -1,0 +1,15 @@
+﻿<transitions>
+
+	<transition3D name = '3DTrans6' > 
+		<general facesX='1' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Quartic' ease='easeOut' proximity='5' rotationType='halfX' startPoint='BC' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='10' moveDirection='CC' xDistance='10' yDistance='10' depthDirection='back' depthDistance='120' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '3DTrans5' > 
+		<general facesX='1' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Cubic' ease='easeOut' proximity='5' rotationType='normalY' startPoint='BR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='10' moveDirection='TC' xDistance='10' yDistance='10' depthDirection='back' depthDistance='120' sidesColor='0x555555'/> 
+	</transition3D> 
+
+</transitions>

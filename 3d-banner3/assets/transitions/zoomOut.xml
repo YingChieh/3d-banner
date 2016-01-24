@@ -1,0 +1,75 @@
+<effects>
+
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '3'/>
+	<time value = '15'/>
+	<direction value = 'br'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '3'/>
+	<time value = '15'/>
+	<direction value = 'b'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '3'/>
+	<time value = '15'/>
+	<direction value = 'bl'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '3'/>
+	<time value = '15'/>
+	<direction value = 'r'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '3'/>
+	<time value = '15'/>
+	<direction value = 'c'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '3'/>
+	<time value = '15'/>
+	<direction value = 'l'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '3'/>
+	<time value = '15'/>
+	<direction value = 'tr'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '3'/>
+	<time value = '15'/>
+	<direction value = 't'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '3'/>
+	<time value = '15'/>
+	<direction value = 'tl'/>
+</imageEffect>
+</effects>

@@ -1,0 +1,123 @@
+<effects>
+
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '12'/>
+	<direction value = 'br'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '12'/>
+	<direction value = 'tl'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 'r'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 'l'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 't'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 'b'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 'br'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 'b'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 'bl'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 'r'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '5'/>
+	<direction value = 'c'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 'l'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 'tr'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '2'/>
+	<time value = '10'/>
+	<direction value = 't'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'move left'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'out'/>
+	<percent value = '3'/>
+	<time value = '10'/>
+	<direction value = 'tl'/>
+</imageEffect>
+</effects>

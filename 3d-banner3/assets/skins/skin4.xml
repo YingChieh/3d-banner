@@ -1,0 +1,7 @@
+﻿<data>
+	<groups>
+		<group snapToCell="true" gridPosition="TR" cellPosition="TR" orientation="horizontal" spacing="3" paddingV="9" paddingH="-60">
+			<button out="assets/skins/skin4/btn.png" over="assets/skins/skin4/btnOver.png" down=	"assets/skins/skin4/btnDown.png" action="index" />
+		</group>
+	</groups>
+</data>

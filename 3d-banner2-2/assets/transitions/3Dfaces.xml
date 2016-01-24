@@ -1,0 +1,118 @@
+﻿<transitions>
+
+	<transition3D name = '' > 
+		<general facesX='1' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Quintic' ease='easeInOut' proximity='5' rotationType='inverseY' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='1' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Quintic' ease='easeInOut' proximity='5' rotationType='inverseX' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='1' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Quintic' ease='easeInOut' proximity='5' rotationType='normalY' startPoint='TR' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='CC' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='1' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Quintic' ease='easeInOut' proximity='5' rotationType='normalX' startPoint='CC' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='300' moveDirection='CC' xDistance='1' yDistance='1' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='2' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Exponential' ease='easeOut' proximity='10' rotationType='alternativeXY2' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1.1' cubeDepth='8' moveDirection='TL' xDistance='15' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='2' facesY='2' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Exponential' ease='easeInOut' proximity='5' rotationType='alternativeXY2' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='15' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='2' facesY='2' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Exponential' ease='easeInOut' proximity='5' rotationType='inverseY' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='2' facesY='2' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Exponential' ease='easeInOut' proximity='5' rotationType='normalX' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='2' facesY='2' firstOnTop='true'/>
+		<overallAnimation time='1.5' motion='Sine' ease='easeInOut' proximity='5' rotationType='normalX' startPoint='BR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='15' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='2' facesY='2' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Cubic' ease='easeOut' proximity='3' rotationType='normalY' startPoint='TL' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='15' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='3' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='1.5' motion='Sine' ease='easeInOut' proximity='10' rotationType='inverseY' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='3' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='1.5' motion='Sine' ease='easeInOut' proximity='10' rotationType='normalY' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='1' facesY='4' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Sine' ease='easeInOut' proximity='10' rotationType='normalX' startPoint='BC' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='1' facesY='4' firstOnTop='true'/>
+		<overallAnimation time='2' motion='Sine' ease='easeInOut' proximity='10' rotationType='normalX' startPoint='TR' direction='vertical' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='4' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='1.8' motion='Sine' ease='easeInOut' proximity='10' rotationType='normalY' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='4' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='2.2' motion='Sine' ease='easeInOut' proximity='50' rotationType='inverseY' startPoint='CL' direction='vertical' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+	
+
+	<transition3D name = '' > 
+		<general facesX='2' facesY='1' firstOnTop='true'/>
+		<overallAnimation time='1.5' motion='Cubic' ease='easeInOut' proximity='15' rotationType='alternativeY' startPoint='TL' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='8' moveDirection='TL' xDistance='5' yDistance='15' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '' > 
+		<general facesX='1' facesY='2' firstOnTop='true'/>
+		<overallAnimation time='2.5' motion='Cubic' ease='easeInOut' proximity='5' rotationType='inverseY' startPoint='TR' direction='diagonal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='30' moveDirection='TL' xDistance='20' yDistance='10' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+
+	<transition3D name = '3DTrans' > 
+		<general facesX='1' facesY='2' firstOnTop='true'/>
+		<overallAnimation time='1.5' motion='Cubic' ease='easeInOut' proximity='10' rotationType='normalY' startPoint='TL' direction='horizontal' rotationAmount='180'/> 
+		<faceAnimation rotationOffset='1' cubeDepth='10' moveDirection='BR' xDistance='20' yDistance='10' depthDirection='back' depthDistance='300' sidesColor='0x555555'/> 
+	</transition3D> 
+	
+</transitions>

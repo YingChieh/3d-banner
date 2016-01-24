@@ -1,0 +1,9 @@
+﻿<transitions>
+
+	<transition3D name = '3DTrans11' > 
+		<general facesX='4' facesY='3' firstOnTop='true'/>
+		<overallAnimation time='1.3' motion='Linear' ease='easeInOut' proximity='2' rotationType='alternativeX' startPoint='CL' direction='diagonal' rotationAmount='90'/> 
+		<faceAnimation rotationOffset='1.4' cubeDepth='10' moveDirection='CR' xDistance='25' yDistance='25' depthDirection='back' depthDistance='120' sidesColor='0x555555'/> 
+	</transition3D> 
+
+</transitions>

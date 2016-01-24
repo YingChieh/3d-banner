@@ -1,0 +1,82 @@
+<effects>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'in'/>
+	<percent value = '1'/>
+	<time value = '12'/>
+	<direction value = 'tl'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '1'/>
+	<time value = '12'/>
+	<direction value = 'b'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '1'/>
+	<time value = '12'/>
+	<direction value = 'b'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'in'/>
+	<percent value = '1.26'/>
+	<time value = '12'/>
+	<direction value = 'c'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '1'/>
+	<time value = '12'/>
+	<direction value = 'tl'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '1'/>
+	<time value = '12'/>
+	<direction value = 'tr'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'in'/>
+	<percent value = '1'/>
+	<time value = '12'/>
+	<direction value = 'bl'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'standard'/>
+	<type value = 'zoom'/>
+	<magnify value = 'in'/>
+	<percent value = '1'/>
+	<time value = '12'/>
+	<direction value = 'br'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'zoom in'/>
+	<type value = 'zoom'/>
+	<magnify value = 'out'/>
+	<percent value = '1'/>
+	<time value = '12'/>
+	<direction value = 'r'/>
+</imageEffect>
+<imageEffect>
+	<name value = 'move left'/>
+	<type value = 'kenBurns'/>
+	<magnify value = 'out'/>
+	<percent value = '1'/>
+	<time value = '12'/>
+	<direction value = 'r'/>
+</imageEffect>
+</effects>

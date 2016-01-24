@@ -1,0 +1,29 @@
+head {
+font-family:Verdana;
+font-size:18px;
+color:#ffffff;
+}
+
+headBack {
+font-family:Verdana;
+font-size:18px;
+color:#000000;
+}
+
+body {
+font-family:Verdana;	
+font-size:12px;
+color:#ffffff; 
+}
+
+bodyBack {
+font-family:Verdana;	
+font-size:12px;
+color:#000000 
+}
+
+a {
+color:#ff0000;
+font-family:Verdana; 
+font-size:20px;
+}
